@@ -17,5 +17,5 @@ Welcome to Nosesisaid, here you can see our open source projects
 
 ## Members 
 
-- [@Davotosin](https://github.com/Davodotttsin) - Principal python developer
-- [@Vic](https://github.com/victorioxd) - Principal nodejs developer
+- [@Davotosin](https://github.com/Davodotttsin) - Main python developer
+- [@Vic](https://github.com/victorioxd) - Main nodejs developer
