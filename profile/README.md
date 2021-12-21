@@ -19,3 +19,4 @@ Welcome to Nosesisaid, here you can see our open source projects
 
 - [@Davotosin](https://github.com/Davodotttsin) - Main python developer
 - [@Vic](https://github.com/victorioxd) - Main nodejs developer
+- [@Jorgegzz](https://github.com/Jorgegzz) - Python expert
