@@ -11,12 +11,16 @@
 -->
 
 # Nosesisaid
-![Banner](https://user-images.githubusercontent.com/74506415/142642273-f38e7a78-266d-42e3-8ad1-67706c30a83f.gif)
+*"Code that'll make you cry"*
+<!--![Banner](https://user-images.githubusercontent.com/74506415/142642273-f38e7a78-266d-42e3-8ad1-67706c30a83f.gif) -->
 
-Welcome to Nosesisaid, here you can see our open source projects
+<!-- Welcome to Nosesisaid, here you can see our open source projects -->
 
 ## Members 
 
-- [@Davotosin](https://github.com/Davodotttsin) - Main python developer
-- [@Vic](https://github.com/victorioxd) - Main nodejs developer
-- [@Jorgegzz](https://github.com/Jorgegzz) - Python expert
+- [@Davotosin](https://github.com/Davodotttsin) - Python & node.js developer
+- [@Vic](https://github.com/victorioxd) - TypeScript developer
+- [@Jorgegzz](https://github.com/Jorgegzz) - Python developer & motion designer
+
+*Follow us*
+- Twitter [@nosesisaid](https://twitter.com/nosesisaid)
