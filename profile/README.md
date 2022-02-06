@@ -17,10 +17,6 @@
 <!-- Welcome to Nosesisaid, here you can see our open source projects -->
 
 ## Members 
-
-- [@Davotosin](https://github.com/Davodotttsin) - Python & node.js developer
-- [@Vic](https://github.com/victorioxd) - TypeScript developer
-- [@Jorgegzz](https://github.com/Jorgegzz) - Python developer & motion designer
-
 *Follow us*
 - Twitter [@nosesisaid](https://twitter.com/nosesisaid)
+- Dev.to [@nosesisaid](https://dev.to/Nosesisaid)
