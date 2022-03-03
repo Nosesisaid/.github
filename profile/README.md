@@ -16,7 +16,6 @@
 
 <!-- Welcome to Nosesisaid, here you can see our open source projects -->
 
-## Members 
 *Follow us*
 - Twitter [@nosesisaid](https://twitter.com/nosesisaid)
 - Dev.to [@nosesisaid](https://dev.to/Nosesisaid)
